@@ -1,0 +1,16 @@
+Goal: Release the vortex.
+
+- Vortex is released by destroying rings around him.
+
+- Ring is destroyed when there are 30 glowy balls on him.
+
+- Click a ring to spawn a glowy ball at the ring's bottom.
+
+- Rings themself sometimes spawn glowy ball.
+
+- Destroy balls by clicking on them, so the system will move faster.
+
+- Press vortex to destroy all glowy balls on rings.
+
+IMPORTANT: The more you spawn glowy balls, the slower they move.
+Watch when are you spawning them, as they collide with other balls and get destroyed.
